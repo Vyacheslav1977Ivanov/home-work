@@ -1,0 +1,15 @@
+D:\Обучение Слава\homework\home-work\program\bin\Debug\net9.0\program.exe
+D:\Обучение Слава\homework\home-work\program\bin\Debug\net9.0\program.deps.json
+D:\Обучение Слава\homework\home-work\program\bin\Debug\net9.0\program.runtimeconfig.json
+D:\Обучение Слава\homework\home-work\program\bin\Debug\net9.0\program.dll
+D:\Обучение Слава\homework\home-work\program\bin\Debug\net9.0\program.pdb
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.AssemblyInfoInputs.cache
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.AssemblyInfo.cs
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.csproj.CoreCompileInputs.cache
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.sourcelink.json
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.dll
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\refint\program.dll
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.pdb
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\program.genruntimeconfig.cache
+D:\Обучение Слава\homework\home-work\program\obj\Debug\net9.0\ref\program.dll
